@@ -1,0 +1,1 @@
+Quick frontend client for a backend in ktor
